@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 21 | 15 |
+| 22 | 15 |
 
 ---
 
@@ -22,7 +22,7 @@
 - [games](#games) (1)
 - [greedy](#greedy) (14)
 - [implementation](#implementation) (5)
-- [math](#math) (9)
+- [math](#math) (10)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (4)
 - [strings](#strings) (2)
@@ -119,6 +119,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1877A | [Goals of Victory](https://codeforces.com/contest/1877/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1877/A%20-%20Goals%20of%20Victory/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
 | 1978B | [New Bakery](https://codeforces.com/contest/1978/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1978/B%20-%20New%20Bakery/solution.cpp) |
