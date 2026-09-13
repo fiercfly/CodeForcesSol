@@ -15,26 +15,32 @@ int main(){
  
         bool sorted= true;
  
-        while(true){
-            bool found= false;
-            for(int i=1; i<n-1; i++){
-                if(arr[i-1] < arr[i] && arr[i] > arr[i+1]){
-                    found= true;
-                    int temp= arr[i];
-                    arr[i]= arr[i+1];
-                    arr[i+1]= temp;
-                }
-            }
-            if(!found){
-                //check if its sorted or not
-                for(int i=1; i<n; i++){
-                    if(arr[i] <= arr[i-1]){
-                        sorted= false;
-                    }
-                }
-                break;
-            }
+        // while(true){
+        //     bool found= false;
+        //     for(int i=1; i<n-1; i++){
+        //         if(arr[i-1] < arr[i] && arr[i] > arr[i+1]){
+        //             found= true;
+        //             int temp= arr[i];
+        //             arr[i]= arr[i+1];
+        //             arr[i+1]= temp;
+        //         }
+        //     }
+        //     if(!found){
+        //         //check if its sorted or not
+        //         for(int i=1; i<n; i++){
+        //             if(arr[i] <= arr[i-1]){
+        //                 sorted= false;
+        //             }
+        //         }
+        //         break;
+        //     }
+        // }
+ 
+        if(arr[0] != 1){
+            sorted= false;
         }
+ 
+        
         if(sorted){
             cout<<"YES"<<endl;
         }
