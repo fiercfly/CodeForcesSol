@@ -6,25 +6,35 @@
 
 | Total Problems | Topics |
 |---|---|
-| 9 | 11 |
+| 17 | 15 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [binary search](#binary-search) (1)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (1)
-- [constructive algorithms](#constructive-algorithms) (4)
+- [constructive algorithms](#constructive-algorithms) (7)
 - [data structures](#data-structures) (1)
 - [divide and conquer](#divide-and-conquer) (1)
+- [dp](#dp) (1)
 - [games](#games) (1)
-- [greedy](#greedy) (6)
-- [implementation](#implementation) (2)
-- [math](#math) (6)
+- [greedy](#greedy) (13)
+- [implementation](#implementation) (5)
+- [math](#math) (9)
 - [number theory](#number-theory) (1)
-- [sortings](#sortings) (2)
+- [sortings](#sortings) (3)
+- [strings](#strings) (1)
+- [ternary search](#ternary-search) (1)
 
 ---
+
+### binary search
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1978B | [New Bakery](https://codeforces.com/contest/1978/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1978/B%20-%20New%20Bakery/solution.cpp) |
 
 ### bitmasks
 
@@ -42,7 +52,10 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
+| 1978A | [Alice and Books](https://codeforces.com/contest/1978/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1978/A%20-%20Alice%20and%20Books/solution.cpp) |
 | 1983A | [Array Divisibility](https://codeforces.com/contest/1983/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1983/A%20-%20Array%20Divisibility/solution.cpp) |
+| 1983B | [Corner Twist](https://codeforces.com/contest/1983/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1983/B%20-%20Corner%20Twist/solution.cpp) |
 | 1983D | [Swap Dilemma](https://codeforces.com/contest/1983/problem/D) | 1700 | [C++20 (GCC 13-64)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1983/D%20-%20Swap%20Dilemma/solution.cpp) |
 | 1994A | [Diverse Game](https://codeforces.com/contest/1994/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1994/A%20-%20Diverse%20Game/solution.cpp) |
 | 1994B | [Fun Game](https://codeforces.com/contest/1994/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1994/B%20-%20Fun%20Game/solution.cpp) |
@@ -59,6 +72,12 @@
 |---|---------|------------|----------|
 | 1983D | [Swap Dilemma](https://codeforces.com/contest/1983/problem/D) | 1700 | [C++20 (GCC 13-64)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1983/D%20-%20Swap%20Dilemma/solution.cpp) |
 
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1987C | [Basil's Garden](https://codeforces.com/contest/1987/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1987/C%20-%20Basil's%20Garden/solution.cpp) |
+
 ### games
 
 | # | Problem | Difficulty | Solution |
@@ -69,9 +88,16 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
+| 1978A | [Alice and Books](https://codeforces.com/contest/1978/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1978/A%20-%20Alice%20and%20Books/solution.cpp) |
+| 1978B | [New Bakery](https://codeforces.com/contest/1978/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1978/B%20-%20New%20Bakery/solution.cpp) |
+| 1983B | [Corner Twist](https://codeforces.com/contest/1983/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1983/B%20-%20Corner%20Twist/solution.cpp) |
 | 1983D | [Swap Dilemma](https://codeforces.com/contest/1983/problem/D) | 1700 | [C++20 (GCC 13-64)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1983/D%20-%20Swap%20Dilemma/solution.cpp) |
+| 1987A | [Upload More RAM](https://codeforces.com/contest/1987/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1987/A%20-%20Upload%20More%20RAM/solution.cpp) |
+| 1987B | [K-Sort](https://codeforces.com/contest/1987/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1987/B%20-%20K-Sort/solution.cpp) |
+| 1987C | [Basil's Garden](https://codeforces.com/contest/1987/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1987/C%20-%20Basil's%20Garden/solution.cpp) |
 | 1994A | [Diverse Game](https://codeforces.com/contest/1994/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1994/A%20-%20Diverse%20Game/solution.cpp) |
 | 1994B | [Fun Game](https://codeforces.com/contest/1994/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1994/B%20-%20Fun%20Game/solution.cpp) |
 | 2014A | [Robin Helps](https://codeforces.com/contest/2014/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/2014/A%20-%20Robin%20Helps/solution.cpp) |
@@ -80,6 +106,9 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
+| 1983B | [Corner Twist](https://codeforces.com/contest/1983/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1983/B%20-%20Corner%20Twist/solution.cpp) |
+| 1989A | [Catch the Coin](https://codeforces.com/contest/1989/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1989/A%20-%20Catch%20the%20Coin/solution.cpp) |
 | 1994A | [Diverse Game](https://codeforces.com/contest/1994/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1994/A%20-%20Diverse%20Game/solution.cpp) |
 | 2014A | [Robin Helps](https://codeforces.com/contest/2014/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/2014/A%20-%20Robin%20Helps/solution.cpp) |
 
@@ -89,8 +118,11 @@
 |---|---------|------------|----------|
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
+| 1978B | [New Bakery](https://codeforces.com/contest/1978/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1978/B%20-%20New%20Bakery/solution.cpp) |
 | 1983A | [Array Divisibility](https://codeforces.com/contest/1983/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1983/A%20-%20Array%20Divisibility/solution.cpp) |
+| 1983B | [Corner Twist](https://codeforces.com/contest/1983/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1983/B%20-%20Corner%20Twist/solution.cpp) |
 | 1983D | [Swap Dilemma](https://codeforces.com/contest/1983/problem/D) | 1700 | [C++20 (GCC 13-64)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1983/D%20-%20Swap%20Dilemma/solution.cpp) |
+| 1987A | [Upload More RAM](https://codeforces.com/contest/1987/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1987/A%20-%20Upload%20More%20RAM/solution.cpp) |
 | 1994B | [Fun Game](https://codeforces.com/contest/1994/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1994/B%20-%20Fun%20Game/solution.cpp) |
 | 2014B | [Robin Hood and the Major Oak](https://codeforces.com/contest/2014/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/2014/B%20-%20Robin%20Hood%20and%20the%20Major%20Oak/solution.cpp) |
 
@@ -105,7 +137,20 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
+| 1978A | [Alice and Books](https://codeforces.com/contest/1978/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1978/A%20-%20Alice%20and%20Books/solution.cpp) |
 | 1983D | [Swap Dilemma](https://codeforces.com/contest/1983/problem/D) | 1700 | [C++20 (GCC 13-64)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1983/D%20-%20Swap%20Dilemma/solution.cpp) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
+
+### ternary search
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1978B | [New Bakery](https://codeforces.com/contest/1978/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1978/B%20-%20New%20Bakery/solution.cpp) |
 
 ---
 
