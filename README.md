@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 8 | 9 |
+| 9 | 11 |
 
 ---
 
@@ -17,9 +17,11 @@
 - [constructive algorithms](#constructive-algorithms) (4)
 - [data structures](#data-structures) (1)
 - [divide and conquer](#divide-and-conquer) (1)
+- [games](#games) (1)
 - [greedy](#greedy) (6)
 - [implementation](#implementation) (2)
-- [math](#math) (5)
+- [math](#math) (6)
+- [number theory](#number-theory) (1)
 - [sortings](#sortings) (2)
 
 ---
@@ -57,6 +59,12 @@
 |---|---------|------------|----------|
 | 1983D | [Swap Dilemma](https://codeforces.com/contest/1983/problem/D) | 1700 | [C++20 (GCC 13-64)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1983/D%20-%20Swap%20Dilemma/solution.cpp) |
 
+### games
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
+
 ### greedy
 
 | # | Problem | Difficulty | Solution |
@@ -79,11 +87,18 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
 | 1983A | [Array Divisibility](https://codeforces.com/contest/1983/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1983/A%20-%20Array%20Divisibility/solution.cpp) |
 | 1983D | [Swap Dilemma](https://codeforces.com/contest/1983/problem/D) | 1700 | [C++20 (GCC 13-64)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1983/D%20-%20Swap%20Dilemma/solution.cpp) |
 | 1994B | [Fun Game](https://codeforces.com/contest/1994/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1994/B%20-%20Fun%20Game/solution.cpp) |
 | 2014B | [Robin Hood and the Major Oak](https://codeforces.com/contest/2014/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/2014/B%20-%20Robin%20Hood%20and%20the%20Major%20Oak/solution.cpp) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 
 ### sortings
 
