@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 17 | 15 |
+| 18 | 15 |
 
 ---
 
@@ -24,7 +24,7 @@
 - [implementation](#implementation) (5)
 - [math](#math) (9)
 - [number theory](#number-theory) (1)
-- [sortings](#sortings) (3)
+- [sortings](#sortings) (4)
 - [strings](#strings) (1)
 - [ternary search](#ternary-search) (1)
 
@@ -136,6 +136,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1896A | [Jagged Swaps](https://codeforces.com/contest/1896/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1896/A%20-%20Jagged%20Swaps/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 | 1978A | [Alice and Books](https://codeforces.com/contest/1978/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1978/A%20-%20Alice%20and%20Books/solution.cpp) |
 | 1983D | [Swap Dilemma](https://codeforces.com/contest/1983/problem/D) | 1700 | [C++20 (GCC 13-64)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1983/D%20-%20Swap%20Dilemma/solution.cpp) |
