@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 18 | 15 |
+| 19 | 15 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [binary search](#binary-search) (1)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (1)
-- [constructive algorithms](#constructive-algorithms) (7)
+- [constructive algorithms](#constructive-algorithms) (8)
 - [data structures](#data-structures) (1)
 - [divide and conquer](#divide-and-conquer) (1)
 - [dp](#dp) (1)
@@ -52,6 +52,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1890A | [Doremy's Paint 3](https://codeforces.com/contest/1890/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1890/A%20-%20Doremy's%20Paint%203/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 | 1978A | [Alice and Books](https://codeforces.com/contest/1978/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1978/A%20-%20Alice%20and%20Books/solution.cpp) |
 | 1983A | [Array Divisibility](https://codeforces.com/contest/1983/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/fiercfly/CodeForcesSol/blob/HEAD/1983/A%20-%20Array%20Divisibility/solution.cpp) |
